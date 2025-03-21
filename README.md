@@ -1,7 +1,7 @@
 <h1>🚀 AI-Powered Code Mentor & Debugging Assistant</h1>
 
 <h2>📌 Categorization of Screens & Implementation Approach</h2>
-<p>Your app consists of <strong>15 screens</strong>, categorized based on implementation method:</p>
+<p>This app consists of <strong>15 screens</strong>, categorized based on implementation method:</p>
 <ul>
     <li><strong>WebView Screens</strong> – Developed by Web Devs & Integrated in Android</li>
     <li><strong>ML Kit Screens</strong> – For On-Device AI Processing</li>
